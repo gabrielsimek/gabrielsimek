@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there I'm Gabriel👋
 
+
+Full Stack software engineer who gets genuinely excited about learning new technologies and discovering creative solutions to technical problems. I’ve spent the last few years working in the service industry and travelling the world.
 <!--
 **gabrielsimek/gabrielsimek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
